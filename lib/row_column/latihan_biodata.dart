@@ -24,7 +24,7 @@ class LatihanBiodata extends StatelessWidget {
                 height: 150.0,
                 decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage('assets/images/nanuna.png'),
+                    image: NetworkImage('https://upload.wikimedia.org/wikipedia/commons/9/9f/Akmil.png'),
                     fit: BoxFit.cover,
                   ),
                   borderRadius: BorderRadius.circular(8.0),
@@ -139,7 +139,7 @@ class LatihanBiodata extends StatelessWidget {
                       height: 150.0,
                       decoration: BoxDecoration(
                         image: DecorationImage(
-                            image: NetworkImage(''),
+                            image: NetworkImage('https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png'),
                             fit: BoxFit.cover,
                         ),
                         borderRadius: BorderRadius.circular(8.0),
